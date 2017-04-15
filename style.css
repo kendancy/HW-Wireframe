@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 }
 div {
@@ -95,3 +96,102 @@ footer {
 	padding:30px;
 	margin:10px 160px;
 }
+=======
+body {
+}
+div {
+	text-align: center;
+	font-size: 16px;
+	font-family: sans-serif;
+
+	background-color: #777;
+	width:99%;
+	height:800px;
+	margin:10px;
+}
+
+header {
+	background-color: #eee;
+	color:#888;
+
+	width:66%;
+	height:35px;
+	padding:30px;
+	margin:10px 160px;
+}
+nav {
+	background-color: #eee;
+	color:#888;
+
+	width:66%;
+	height:35px;
+	padding:30px;
+	margin:10px 160px;
+} 
+#section {
+	background-color: #eee;
+	color:#888;
+
+	clear:both;
+
+	float:left;
+	left:20px;
+	width:40%;
+	height:250px;
+	padding:20px 0px 0px 0px;
+	margin:10px 10px 10px 160px;
+}
+#aside	{
+	background-color: #eee;
+	color:#888;
+
+	float:left;
+	width:27%;
+	height: 230px;
+	padding:20px;
+	margin:10px 0px 00px 0px;
+}
+
+article	{
+	background-color: #666;
+	color:#fff;
+
+	width:80%;
+	height:160px;
+	padding:20px;
+	margin:10px 30px;
+}
+
+#sub_article_1 {
+	background-color: #eee;
+	color:#444;
+
+	font-size: 20px;
+
+	width:85%;
+	height:20px;
+	padding:20px;
+	margin:10px;
+}
+
+#sub_article_2 {
+	background-color: #eee;
+	color:#888;
+
+	width:85%;
+	height:20px;
+	padding:20px;
+	margin:10px;
+}
+
+footer {
+	background-color: #eee;
+	color:#888;
+
+	float:left;
+	width:66%;
+	height:35px;
+	padding:30px;
+	margin:10px 160px;
+}
+>>>>>>> 7b41b3e785b03b94c37027089371b44f4a7314b1
